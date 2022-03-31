@@ -1,2 +1,1 @@
-# participant-app
-Participant App
+# Participant App
